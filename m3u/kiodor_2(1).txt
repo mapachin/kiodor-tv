@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1, Canal 33 El Salvador
+http://iphone-streaming.ustream.tv/ustreamVideo/4811076/streams/live/playlist.m3u8
+#EXTINF:-1,AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:0,40HD
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+#EXTINF:-1,Gala TV Cancun
+http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/playlist.m3u8?
+#EXTINF:-1,Canal 6 Costa Rica
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+#EXTINF:-1,Megavision
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,HCH Honduras
+http://4.31.30.140:1935/live/hchtvdigital/playlist.m3u8?wowzasessionid=1792561590
+#EXTINF:-1,Telecaribe
+http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8
+#EXTINF:-1,SER TV Panamá
+rtmp://216.224.177.132/live/sertv
+#EXTINF:-1,Trecevisión Guatemala
+http://72.46.226.61/live01/canal131/playlist.m3u8#
+#EXTINF:-1,Teletica Canal 7 Costa Rica
+http://k3.usastreams.com:1935/cana7/cana7/playlist.m3u
+#EXTINF:-1,Gala tv
+http://201.161.59.3/galavision.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,Azteca 13
+http://201.161.59.3/azteca13.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:0,canal 5 HD
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:0,Telesistema HD
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,MEGAHD T-K
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,Hondured Canal 13 Honduras
+rtmp://173.236.71.62/hondured/hrtv
+#EXTINF:-1,Ultra Cine
+http://vemoxhlslive-i.akamaihd.net/hls/live/219940/vemoxchannel1/iOS/vemoxchannel1@219940/stream2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal Multimedios Plus" tvg-name="Canal_Multimedios_Plus" tvg-logo="multimedios-plus.png" tvg-shift="1",Multimedios TV
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+#EXTINF:0 tvg-logo="guiatv-prueba.png",Mega TV HD
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:0 tvg-logo="TelesistemaHn.png",Telesistema HD - Honduras
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:0 tvg-id="Total_Canal 5 El Líder (Honduras)" tvg-name="Canal_5_El_Líder_(Honduras)" tvg-logo="canal5Hn.png",canal 5 HD - Honduras
+#EXTINF:0 tvg-id="Total_Canal 5 El Líder (Honduras)" tvg-name="Canal_5_El_Líder_(Honduras)" tvg-logo="canal5Hn.png",canal 5 HD - Honduras
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:0 tvg-logo="TelesistemaHn.png",Telesistema HD - Honduras
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:-1,espn 
+rtmp://$OPT:rtmp-raw=rtmp://109.123.95.180/live playpath=espn2016?id=80885&pk=049b663fc1d65796d27f872f2e13e85b31ec2bda184dd0bd71ebb41a76f04eda swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/espn2016/1/600/385
+#EXTINF:-1,hbo
+rtmp://$OPT:rtmp-raw=rtmp://199.195.194.60/live playpath=hbomalosolandia3?id=84422&pk=049b663fc1d65796d27f872f2e13e85b31ec2bda184dd0bd71ebb41a76f04eda swfUrl=http://www.embeducaster.com/static/scripts/fplayer.swf live=1 pageUrl=http://www.embeducaster.com/embedplayer/hbomalosolandia3/1/600/385
+#EXTINF:-1,hbo
+http://199.195.194.60/livehbomalosolandia3/playlist.m3u8?id=84422&pk=049b663fc1d65796d27f872f2e13e85b31ec2bda184dd0bd71ebb41a76f04eda
+#EXTINF:-1,ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN 2 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,FOX 2 SPORTS
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+ #EXTINF:-1, SCI DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?-1332/1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="canal-2-HD.png",Canal De Las Estrellas
+http://iptvcanales.com/xw/cable.php?canal=03&player=playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 5 de México (XHGC)" tvg-logo="canal-5-HD.png",Canal 5 de México (XHGC)
+http://iptvcanales.com/xw/cable.php?canal=04&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="azteca-internacional.png",Canal Azteca Honduras
+http://iptvcanales.com/xw/cable.php?canal=60&player=playlist.m3u8
+#EXTINF:-1 tvg-logo="azteca-7.png",Azteca 7
+http://iptvcanales.com/xw/cable.php?canal=06&player=playlist.m3u8
+#EXTINF:-1,Canal 7 SLP
+rtmp://187.188.159.113/live/ playpath=web.sdp swfUrl=http://canal7slp.com/wp-content/themes/canal7slp/js/jwplayer/jwplayer.flash.swf pageUrl=http://canal7slp.com/
